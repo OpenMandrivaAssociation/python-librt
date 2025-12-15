@@ -6,6 +6,7 @@ Summary:	Mypyc runtime library
 URL:		https://pypi.org/project/librt/
 License:	MIT
 Group:		Development/Python
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(setuptools)
 BuildSystem:	python
 
