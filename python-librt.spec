@@ -1,5 +1,5 @@
 Name:		python-librt
-Version:	0.13.0
+Version:	0.16.0
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/l/librt/librt-%{version}.tar.gz
 Summary:	Mypyc runtime library
